@@ -1,0 +1,2220 @@
+---------------------------------------------------------------
+
+[2021-07-29T21:14:44+08:00] 127.0.0.1 GET tp51.com/
+[ error ] [8]未定义变量: web_title
+---------------------------------------------------------------
+
+[2021-07-29T21:15:03+08:00] 127.0.0.1 GET tp51.com/
+[ error ] [0]模板文件不存在:index.html
+---------------------------------------------------------------
+
+[2021-07-29T21:16:51+08:00] 127.0.0.1 GET tp51.com/
+[ error ] [8]未定义变量: web_title
+---------------------------------------------------------------
+
+[2021-07-29T21:19:26+08:00] 127.0.0.1 GET tp51.com/
+[ error ] [8]未定义变量: web_title
+---------------------------------------------------------------
+
+[2021-07-29T21:19:43+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.031039s] [吞吐率：32.22req/s] [内存消耗：1,806.00kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+) ]
+[ error ] [8]未定义变量: web_title[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:7]
+---------------------------------------------------------------
+
+[2021-07-29T21:21:07+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.043025s] [吞吐率：23.24req/s] [内存消耗：1,806.16kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+) ]
+[ error ] [8]未定义变量: web_title[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:7]
+---------------------------------------------------------------
+
+[2021-07-29T21:21:40+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.035517s] [吞吐率：28.16req/s] [内存消耗：1,807.03kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+) ]
+[ error ] [8]未定义变量: web_tplpath[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:8]
+---------------------------------------------------------------
+
+[2021-07-29T21:23:08+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.040523s] [吞吐率：24.68req/s] [内存消耗：1,808.51kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => '',
+) ]
+[ error ] [8]未定义变量: login[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:41]
+---------------------------------------------------------------
+
+[2021-07-29T21:23:18+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.031533s] [吞吐率：31.71req/s] [内存消耗：1,808.48kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => '',
+) ]
+[ error ] [8]未定义变量: vo[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:45]
+---------------------------------------------------------------
+
+[2021-07-29T21:25:01+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.036647s] [吞吐率：27.29req/s] [内存消耗：1,961.14kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => '',
+) ]
+[ error ] [8]未定义变量: vo[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:45]
+---------------------------------------------------------------
+
+[2021-07-29T21:27:22+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.045844s] [吞吐率：21.81req/s] [内存消耗：2,679.05kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => '',
+) ]
+[ error ] [8]未定义变量: vo[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:45]
+---------------------------------------------------------------
+
+[2021-07-29T21:27:45+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.052425s] [吞吐率：19.07req/s] [内存消耗：2,883.70kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001215s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.006002s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000441s ]
+[ error ] [8]未定义变量: vo[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:45]
+---------------------------------------------------------------
+
+[2021-07-29T21:28:31+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.056166s] [吞吐率：17.80req/s] [内存消耗：3,035.99kb] [文件加载：73]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001095s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.002595s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000438s ]
+[ error ] [8]未定义变量: slider[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:44]
+---------------------------------------------------------------
+
+[2021-07-29T21:29:26+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.071109s] [吞吐率：14.06req/s] [内存消耗：2,981.72kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009903s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.005171s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000758s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011346s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.001020s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000319s ]
+[ error ] [0]致命错误: Call to undefined function U()[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:59]
+---------------------------------------------------------------
+
+[2021-07-29T21:29:48+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.074518s] [吞吐率：13.42req/s] [内存消耗：3,256.04kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009895s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.002466s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000437s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010850s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000990s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000314s ]
+[ error ] [0]致命错误: Call to undefined function L()[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:59]
+---------------------------------------------------------------
+
+[2021-07-29T21:30:01+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.064989s] [吞吐率：15.39req/s] [内存消耗：3,256.00kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009728s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.002576s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000477s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001034s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000974s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000238s ]
+[ error ] [0]致命错误: Call to undefined function L()[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:59]
+---------------------------------------------------------------
+
+[2021-07-29T21:30:31+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.047609s] [吞吐率：21.00req/s] [内存消耗：3,257.45kb] [文件加载：75]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001082s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.002339s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000359s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000901s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000829s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000226s ]
+[ error ] [8]未定义数组索引: difftime[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:82]
+---------------------------------------------------------------
+
+[2021-07-29T21:32:15+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.075538s] [吞吐率：13.24req/s] [内存消耗：3,040.13kb] [文件加载：73]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010312s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.006599s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000425s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010148s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.001055s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000377s ]
+[ error ] [8]未定义数组索引: jd[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:88]
+---------------------------------------------------------------
+
+[2021-07-29T21:32:58+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.071870s] [吞吐率：13.91req/s] [内存消耗：3,039.19kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010914s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.002445s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000308s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002870s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.002807s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000285s ]
+[ error ] [0]致命错误: Call to undefined function U()[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:97]
+---------------------------------------------------------------
+
+[2021-07-29T21:33:29+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.070938s] [吞吐率：14.10req/s] [内存消耗：3,256.46kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011119s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.002685s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000366s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009594s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000642s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.004240s ]
+[ error ] [0]致命错误: Call to undefined function U()[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:97]
+---------------------------------------------------------------
+
+[2021-07-29T21:34:03+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.062510s] [吞吐率：16.00req/s] [内存消耗：3,257.70kb] [文件加载：75]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001111s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000628s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000302s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010109s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000969s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000361s ]
+[ error ] [8]未定义数组索引: pic[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:98]
+---------------------------------------------------------------
+
+[2021-07-29T21:35:44+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.049339s] [吞吐率：20.27req/s] [内存消耗：1,728.32kb] [文件加载：60]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]语法解析错误: syntax error, unexpected '}'[D:\phpstudy_pro\WWW\tp51\application\index\controller\Index.php:13]
+---------------------------------------------------------------
+
+[2021-07-29T21:36:01+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.047480s] [吞吐率：21.06req/s] [内存消耗：3,040.42kb] [文件加载：73]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001024s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000620s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000306s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001185s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000688s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000368s ]
+[ error ] [8]未定义数组索引: name[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:103]
+---------------------------------------------------------------
+
+[2021-07-29T21:36:23+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.069071s] [吞吐率：14.48req/s] [内存消耗：3,040.46kb] [文件加载：73]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010335s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000707s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000367s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.013596s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000615s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000293s ]
+[ error ] [8]未定义数组索引: shop_price[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:104]
+---------------------------------------------------------------
+
+[2021-07-29T21:36:44+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.074316s] [吞吐率：13.46req/s] [内存消耗：3,040.49kb] [文件加载：73]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010692s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000790s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000436s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010483s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000740s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000316s ]
+[ error ] [8]未定义变量: username[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:144]
+---------------------------------------------------------------
+
+[2021-07-29T21:37:16+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.063709s] [吞吐率：15.70req/s] [内存消耗：3,104.76kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009925s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000763s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000374s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001071s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000522s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000293s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:37:16+08:00] 127.0.0.1 GET tp51.com/Picture/Shop/2016-01-03/5688806402f62.jpg
+[运行时间：0.022568s] [吞吐率：44.31req/s] [内存消耗：1,217.59kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2021-07-29T21:37:19+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.042094s] [吞吐率：23.76req/s] [内存消耗：3,105.73kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001230s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000695s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000374s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000952s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000528s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000284s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:37:19+08:00] 127.0.0.1 GET tp51.com/Picture/Shop/2016-01-03/5688806402f62.jpg
+[运行时间：0.022448s] [吞吐率：44.55req/s] [内存消耗：1,217.59kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2021-07-29T21:37:25+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.062837s] [吞吐率：15.91req/s] [内存消耗：3,105.73kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009818s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000823s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000436s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011389s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000585s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000304s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:37:25+08:00] 127.0.0.1 GET tp51.com/Picture/Shop/2016-01-03/5688806402f62.jpg
+[运行时间：0.021765s] [吞吐率：45.95req/s] [内存消耗：1,217.59kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2021-07-29T21:37:35+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.042138s] [吞吐率：23.73req/s] [内存消耗：3,105.73kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001135s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000678s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000378s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000907s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000262s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:37:35+08:00] 127.0.0.1 GET tp51.com/Picture/Shop/2016-01-03/5688806402f62.jpg
+[运行时间：0.021724s] [吞吐率：46.03req/s] [内存消耗：1,217.59kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2021-07-29T21:37:46+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.081683s] [吞吐率：12.24req/s] [内存消耗：3,105.73kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010694s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.002202s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.001262s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011651s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.001973s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.001042s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:37:46+08:00] 127.0.0.1 GET tp51.com/Picture/Shop/2016-01-03/5688806402f62.jpg
+[运行时间：0.023332s] [吞吐率：42.86req/s] [内存消耗：1,217.59kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2021-07-29T21:38:18+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.060687s] [吞吐率：16.48req/s] [内存消耗：3,105.77kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010051s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000675s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000366s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010536s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000588s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000229s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:38:18+08:00] 127.0.0.1 GET tp51.com/Picture/Shop/2016-01-03/5688806402f62.jpg
+[运行时间：0.025991s] [吞吐率：38.47req/s] [内存消耗：1,217.63kb] [文件加载：50]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2021-07-29T21:40:55+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.069952s] [吞吐率：14.30req/s] [内存消耗：3,143.34kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011501s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000658s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000377s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010702s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000682s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000374s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:40:55+08:00] 127.0.0.1 GET tp51.com/Picture/Shop/2016-01-03/5688806402f62.jpg
+[运行时间：0.025856s] [吞吐率：38.68req/s] [内存消耗：1,255.38kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2021-07-29T21:43:48+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.067297s] [吞吐率：14.86req/s] [内存消耗：3,411.11kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001169s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000642s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000370s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010526s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000724s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000359s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:43:48+08:00] 127.0.0.1 GET tp51.com/Picture/Shop/2016-01-03/5688806402f62.jpg
+[运行时间：0.028293s] [吞吐率：35.34req/s] [内存消耗：1,255.38kb] [文件加载：51]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2021-07-29T21:45:07+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.073709s] [吞吐率：13.57req/s] [内存消耗：3,141.73kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009728s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000637s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000306s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010750s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000685s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000357s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:46:14+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.051157s] [吞吐率：19.55req/s] [内存消耗：3,141.73kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001388s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000968s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000393s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001197s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000678s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000357s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:46:39+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.071687s] [吞吐率：13.95req/s] [内存消耗：3,411.09kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010545s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000645s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000373s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010774s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000812s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000382s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:47:20+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.040352s] [吞吐率：24.78req/s] [内存消耗：3,020.27kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001105s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000689s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000378s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000969s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000660s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000296s ]
+[ error ] [0]模板文件不存在:footer.html[D:\phpstudy_pro\WWW\tp51\thinkphp\library\think\Template.php:1243]
+---------------------------------------------------------------
+
+[2021-07-29T21:47:46+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.060425s] [吞吐率：16.55req/s] [内存消耗：3,020.36kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010062s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.001751s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000439s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010473s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000653s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000315s ]
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp51\application\index\view\.\footer.html[D:\phpstudy_pro\WWW\tp51\thinkphp\library\think\Template.php:1243]
+---------------------------------------------------------------
+
+[2021-07-29T21:47:59+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.039497s] [吞吐率：25.32req/s] [内存消耗：3,020.36kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001123s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000761s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000411s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000972s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000511s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000261s ]
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp51\application\index\view\footer.html[D:\phpstudy_pro\WWW\tp51\thinkphp\library\think\Template.php:1243]
+---------------------------------------------------------------
+
+[2021-07-29T21:48:12+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.049214s] [吞吐率：20.32req/s] [内存消耗：3,304.08kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001141s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000766s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000437s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001045s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000607s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000355s ]
+[ error ] [0]致命错误: Call to undefined function U()[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:140]
+---------------------------------------------------------------
+
+[2021-07-29T21:48:55+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.060560s] [吞吐率：16.51req/s] [内存消耗：3,413.71kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010627s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000627s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000300s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000943s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000478s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000233s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:49:38+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.065881s] [吞吐率：15.18req/s] [内存消耗：3,144.17kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010180s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000688s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000380s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010788s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000663s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000310s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:50:20+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.059417s] [吞吐率：16.83req/s] [内存消耗：3,312.22kb] [文件加载：77]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001136s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000732s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000427s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011405s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000622s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000303s ]
+[ error ] [2]Use of undefined constant title - assumed 'title' (this will throw an Error in a future version of PHP)[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:71]
+---------------------------------------------------------------
+
+[2021-07-29T21:54:08+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.078879s] [吞吐率：12.68req/s] [内存消耗：3,313.90kb] [文件加载：77]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009735s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000779s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000431s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010500s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000733s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000428s ]
+[ error ] [8]未定义变量: list_type[D:\phpstudy_pro\WWW\tp51\runtime\temp\9530ce4c6e1ae2b2468ba1ba95c83853.php:70]
+---------------------------------------------------------------
+
+[2021-07-29T21:54:32+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.058064s] [吞吐率：17.22req/s] [内存消耗：3,152.69kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010508s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000646s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000302s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001035s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000298s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:54:52+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.060456s] [吞吐率：16.54req/s] [内存消耗：3,152.70kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009736s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.010627s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000364s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001076s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000633s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000244s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:54:53+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.040165s] [吞吐率：24.90req/s] [内存消耗：3,152.70kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001035s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000608s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000297s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000954s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000514s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000312s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:55:16+08:00] 127.0.0.1 GET tp51.com/
+[运行时间：0.044245s] [吞吐率：22.60req/s] [内存消耗：3,151.77kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001221s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000812s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000433s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001028s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000606s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000354s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:55:17+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.049956s] [吞吐率：20.02req/s] [内存消耗：3,152.69kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.006841s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000821s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000374s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001060s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000550s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000292s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:55:18+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.074474s] [吞吐率：13.43req/s] [内存消耗：3,152.70kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011614s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.001632s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000925s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010613s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000652s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000337s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:55:59+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.065826s] [吞吐率：15.19req/s] [内存消耗：3,426.41kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009685s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000846s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000433s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011361s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000620s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000312s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:56:00+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.036785s] [吞吐率：27.18req/s] [内存消耗：1,813.73kb] [文件加载：64]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2021-07-29T21:59:16+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.044415s] [吞吐率：22.51req/s] [内存消耗：1,765.91kb] [文件加载：60]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2021-07-29T21:59:26+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.070691s] [吞吐率：14.15req/s] [内存消耗：3,152.88kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011011s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000724s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000367s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010553s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000570s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000306s ]
+---------------------------------------------------------------
+
+[2021-07-29T21:59:30+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.028259s] [吞吐率：35.39req/s] [内存消耗：1,765.91kb] [文件加载：60]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2021-07-29T21:59:32+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.062419s] [吞吐率：16.02req/s] [内存消耗：3,152.88kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010667s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000789s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000433s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011472s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000374s ]
+---------------------------------------------------------------
+
+[2021-07-29T22:01:08+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.027933s] [吞吐率：35.80req/s] [内存消耗：1,765.91kb] [文件加载：60]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2021-07-29T22:01:10+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.035975s] [吞吐率：27.80req/s] [内存消耗：1,765.91kb] [文件加载：60]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2021-07-29T22:01:25+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.037778s] [吞吐率：26.47req/s] [内存消耗：1,833.00kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]模板文件不存在:D:\phpstudy_pro\WWW\tp51\application\index\view\activity\turntable.html[D:\phpstudy_pro\WWW\tp51\thinkphp\library\think\view\driver\Think.php:86]
+---------------------------------------------------------------
+
+[2021-07-29T22:01:46+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.044295s] [吞吐率：22.58req/s] [内存消耗：2,023.55kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\activity\turntable.html [ array (
+) ]
+[ error ] [8]未定义变量: web_title[D:\phpstudy_pro\WWW\tp51\runtime\temp\82da95f1b8379ff01556618dad093a14.php:7]
+---------------------------------------------------------------
+
+[2021-07-29T22:05:05+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.033440s] [吞吐率：29.90req/s] [内存消耗：1,818.06kb] [文件加载：63]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [64]Constant expression contains invalid operations[D:\phpstudy_pro\WWW\tp51\application\index\controller\Base.php:6]
+---------------------------------------------------------------
+
+[2021-07-29T22:06:55+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.036618s] [吞吐率：27.31req/s] [内存消耗：1,873.70kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\activity\turntable.html [ array (
+) ]
+[ error ] [8]未定义变量: web_title[D:\phpstudy_pro\WWW\tp51\runtime\temp\82da95f1b8379ff01556618dad093a14.php:7]
+---------------------------------------------------------------
+
+[2021-07-29T22:08:11+08:00] 127.0.0.1 GET tp51.com/index/index/turntable.html
+[运行时间：0.035833s] [吞吐率：27.91req/s] [内存消耗：1,873.91kb] [文件加载：68]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\activity\turntable.html [ array (
+) ]
+[ error ] [8]未定义变量: web_title[D:\phpstudy_pro\WWW\tp51\runtime\temp\82da95f1b8379ff01556618dad093a14.php:7]
+---------------------------------------------------------------
+
+[2021-07-29T22:18:57+08:00] 127.0.0.1 GET tp51.com/index/index/index.html
+[运行时间：0.060182s] [吞吐率：16.62req/s] [内存消耗：3,166.55kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\thinkphp\lang\zh-cn.php
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\tp51\application\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7,tr;q=0.6,zh-TW;q=0.5,ja;q=0.4',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://tp51.com/index/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Mobile Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'keep-alive',
+  'host' => 'tp51.com',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\tp51\application\index\view\index\index.html [ array (
+  0 => 'web_title',
+  1 => 'web_tplpath',
+  2 => 'login',
+  3 => 'groupon',
+  4 => 'slider',
+  5 => 'username',
+  6 => 'list_type',
+  7 => '',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010389s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_groupon` [ RunTime:0.000651s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_groupon` [ RunTime:0.000326s ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001157s ] mysql:host=127.0.0.1;dbname=tpdemo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `hx_slider` [ RunTime:0.000556s ]
+[ sql ] [ SQL ] SELECT * FROM `hx_slider` [ RunTime:0.000231s ]
