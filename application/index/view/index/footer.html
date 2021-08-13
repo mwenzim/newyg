@@ -1,0 +1,63 @@
+<div class="sy-fanhui">
+    	<a href="JavaScript:;"><img src="{$web_tplpath}images/sjsc29.gif"></a>
+</div>
+<div class="footer" > 
+    <ul class="quanbu-ul1">
+        
+        <li>
+            <a href="{url('index/index')}">
+        	<div class="qu-tu1">
+            	<span class="atu1"><span class="icon wenzi_iconfont">&#xe690;</span></span>
+
+            </div>
+            <span class="qu-ul1a">{:lang('首页')}</span>
+            </a>
+        </li>
+        <li>
+            <a href="{url('Groupon/announced')}">
+        	<div class="qu-tu1">
+            	<span class="atu1"><span class="icon wenzi_iconfont">&#xe646;</span></span>
+
+            </div>
+            <span class="qu-ul1a">{:lang('最新揭晓')}</span>
+            </a>
+        </li>
+    	<li>
+            <a href="{url('cart/index')}">
+        	<div class="qu-tu1">
+            	<span class="atu1"><span class="icon wenzi_iconfont">&#xe67c;</span></span>
+
+            </div>
+            <span class="qu-ul1a">{:lang('购物车')}</span>
+            </a>
+        </li>
+       <li>
+            <a href="{url('user/displays')}">
+        	<div class="qu-tu1">
+            	<span class="atu1"><span class="icon wenzi_iconfont">&#xe61b;</span></span>
+
+            </div>
+            <span class="qu-ul1a">{:lang('发现')}</span> 
+            </a>
+        </li>
+    	<li>
+            <a href="{url('user/index')}">
+                <gt name="UID" value="0">
+                    <gt name="user_msg" value="0">
+                    <span class="label label-warning">{$user_msg|default=''}</span>
+                    </gt>
+                </gt>
+            	<div class="qu-tu1">
+                	<span class="atu1"><span class="icon wenzi_iconfont">&#xe656;</span></span>
+                    
+                </div>
+            <span class="qu-ul1a">{:lang('我的')}</span>
+            
+            </a>
+            
+        </li>
+    
+        <div style="clear:both;"></div>
+    </ul>
+</div>    
+    

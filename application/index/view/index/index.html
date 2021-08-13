@@ -1,0 +1,214 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>{$web_title}</title>
+<link rel="stylesheet" type="text/css" href="{$web_tplpath}css/reset.css">
+<link rel="stylesheet" type="text/css" href="{$web_tplpath}css/iconfont.css">
+<link rel="stylesheet" type="text/css" href="{$web_tplpath}css/style.css">
+<link rel="stylesheet" href="{$web_tplpath}bootstrap/css/bootstrap.min.css" >
+<link rel="stylesheet" type="text/css" href="{$web_tplpath}css/shoujisc.css">
+<script type="text/javascript" src="{$web_tplpath}js/jQuery.js"></script>
+<script type="text/javascript" src="{$web_tplpath}js/woxiangyao.js"></script>
+<script type="text/javascript" src="{$web_tplpath}js/TouchSlide.1.1.js"></script>
+<script type="text/javascript" src="{$web_tplpath}js/foot.js"></script>
+<script type="text/javascript" src="{$web_tplpath}js/jquery.cookie.js"></script>
+</head>
+
+<body>
+	<style>
+	    .notice{box-sizing: border-box; }
+	    .notice h3{ margin-top:0 !important;}
+        .media-body p{margin-bottom:0;}
+        .media-body a{color:#fff;}
+        .media-price{margin-bottom:5px; color:#e74e5d;}
+        .media-price small{ color:#222;}
+        .media-price .huise{font-size:12px;}
+        .media-heading{ min-height:40px; line-height:20px; border-bottom: .5px solid #eee;}
+        .media-heading a{ color:#888}
+        .groupon_block{ width:100%;height:45px;line-height:20px;padding-top:5px;border-radius:5px; color:#fff;background:url({$web_tplpath}images/bgnnb.png) no-repeat;background-size:100%;} 
+        .groupon_block p{font-size:12px;padding-left:10px; font-weight:bold;}
+        .groupon-status{ font-size:12px; padding:0 5px; margin-right:5px;border-radius:3px;background:#e74e5d; color:#fff; }
+        .position span {font-size:12px;color:#fff;display:inline-block;background:#e74e5d;padding:0 4px; margin-left:1px;border-radius:2px;}
+        .position .bdfh { background:none;color:#e74e5d;padding:1px;font-weight:bolder;}
+        .progress {margin-bottom: 0;height: 18px;}
+        .progress-bar{ height:18px;}
+    </style>
+  	{include file="index/header" /}
+    
+    <div class="banner1 slide" id="ban1" login="{$login}">
+        <div id="focus">
+            <ul class="sy-ul">
+                {volist name="slider" id="vo"}
+                    <li><a href="{$vo['link']}"><img src="{$vo['path']}"></a></li>
+                {/volist}
+            </ul>
+            <ol class="sy-ol">
+            </ol>
+        </div>
+    </div>
+    <style>
+        .nav_list {margin:10px;}
+        .nav_list img{ width:70%;margin:10px auto; border-radius:5px;}
+        .nav_list p{ text-align:center; font-weight:600; color:#777;}
+    </style>
+    <div class="container nav_list">
+        <div class="row">
+            <div class="col-xs-3"><a href="{:url('index/turntable')}" ><img src="{$web_tplpath}images/gkdata3.png" /><p>{:lang('幸运转盘')}</p></a></div>
+            <div class="col-xs-3"><a href="{:url('wallet/card_publish')}" ><img src="{$web_tplpath}images/gkdata2.png" /><p>{:lang('卡片广场')}</p></a></div>
+            <div class="col-xs-3"><a href="{:url('groupon/index')}" ><img src="{$web_tplpath}images/gkdata6.png" /><p>{:lang('拼团模式')}</p></a></div>
+            <div class="col-xs-3"><a href="{:url('wallet/card')}" ><img src="{$web_tplpath}images/gkdata5.png" /><p>{:lang('我的卡片')}</p></a></div>
+            <!--<div class="col-xs-3"><img src="{$web_tplpath}images/gkdata4.png" /></div>-->
+            <!--<div class="col-xs-3"><img src="{$web_tplpath}images/gkdata1.png" /></div>-->
+            <!--<div class="col-xs-3"><img src="{$web_tplpath}images/gkdata7.png" /></div>-->
+        </div>
+    </div>
+    
+	
+    <div class="ssjg" style="padding-bottom:0;">
+    	<ul class="ssjg-tit1">
+        	<li><h3 class="lead index_lead">{:lang('热门推荐')}</h3></li>
+            <div style="clear:both;"></div>
+        </ul>
+        <ul class="ssjg-ul1" style="padding-top:0;">
+            {volist name="groupon" id="vo"}
+                <div class="media">
+    	        <div class="container">
+    	            <div class="row" style="padding-top:0">
+    	                <div class="col-xs-4 huise" style="bottom:-5px;">
+    	                    <div class="time-box">
+                                <span class="countdown" style="display:none;">{$vo.difftime}</span>
+                                <span class="countDiv"></span>
+                            </div>
+    	                </div>
+    	                <div class="col-xs-8" style="bottom:-5px;">
+    	                    <div class="progress">
+                                <div class="progress-bar progress-bar-warning progress-bar-striped" role="progressbar" aria-valuenow="{$vo.jd}" aria-valuemin="0" aria-valuemax="100" style="width: {$vo.jd}%">
+
+                                </div>
+                                <span class="base_color">{:lang('进度')}:{$vo.attend_num}/{$vo.need_num}</span>
+                            </div>
+    	                </div>
+    	            </div>
+                </div>
+                <div class="media-left media-middle">
+                    <a href="{url('groupon/process/id/'.$vo['id'])}">
+                    <img style="height:120px;width:120px;" class="media-object img-thumbnail" src="{$vo.pic}">
+                    
+                    </a>
+                </div>
+                <div class="media-body">
+                    <h4 class="media-heading"><a href="{url('groupon/process/id/'.$vo['id'])}"><span class="groupon-status">{:lang('N人团',['n'=>$vo['need_num']])}</span>{$vo.name}</a></h4>
+                    <h4 class="media-price"><small>{:lang('拼团价')} ฿</small>{$vo.price}.00 <s class="huise">฿ {$vo.shop_price}.00</s></h4>
+                    <a href="{url('groupon/process/id/'.$vo['id'])}" >
+                        <div class="groupon_block">
+                            <p>{:lang('X人成团Y人中奖',['x'=>$vo['need_num'],'y'=>$vo['lucky_num']])}</p>
+                            <p>{:lang('返还金额',['n'=>$vo['back_price']])}</p></a>
+                        </div>
+                    </a>
+                    <div style="clear:both;"></div>
+                </div>
+            </div>
+        	{/volist}
+            <div style="clear:both;"></div>
+        </ul>
+    </div>
+    
+    <div class="sy-ft">
+    	<div class="sy-ftif1">
+        	<table border="1" class="sy-tab1" bordercolor="#dbdbdb">
+              <tr>
+                <td align="center" valign="middle"><a href="{url('index/index')}">{:lang('首页')}</a></td>
+                <td align="center" valign="middle"><a href="{url('user/guide')}">{:lang('帮助')}</a></td>
+                <td align="center" valign="middle"><a href="{url('public/login')}">{:lang('登录')}</a></td>
+                <td align="center" valign="middle"><a href="{url('public/reg')}">{:lang('注册')}</a></td>
+              </tr>
+            </table>
+        </div>
+    </div>
+    
+    <!--返回顶部-->
+    {include file="index/footer" /}
+  	<script type="text/javascript" src="{$web_tplpath}layer/layer.js" ></script> 
+	<script>
+	    $(document).ready(function(){
+	       $('.sort1').show();
+	       $('.quanbu-ul1 li').eq(0).addClass('current').siblings().removeClass('current');
+	       var login = "{$login}";
+	       if(login == 1){
+	            layer.open({
+    	            title:["{:lang('提示')}",'background:#e74e5d;color:#fff;'],
+    	            className: "notice",
+                    content: "<div class='huise'>{:lang('欢迎回来')} <span>{$username}</span> </div>! \n {:lang('转盘次数')}+3",
+                    btn:['{:lang("去抽奖")}'],
+                    time: 0,
+                    yes:function(){ window.location.href="{url('index/turntable')}";},
+                    end:function(){window.location.href="{url('index/index')}";}
+                });
+	       }
+	      
+	    });
+	    $('.sy-ul1 li').click(function(){
+	       $('.sy-ul1 li').removeClass('current');
+	       $(this).addClass('current');
+	       var state = $(this).find('a').attr('sort-type');
+	       $('.sy-ul2').hide();
+	       $(".sort"+state).show();
+	    });
+	    
+	    function add2cart(pid){
+	        $.post("{url('cart/add2cart')}",{pid:pid,buycount:1},
+            function(data){
+                if(data.status == 1){
+                    layer.open({
+                        content: data.info,
+                        skin: 'msg',
+                        time: 1,
+                        end:function(){
+                            window.location.href="{url('cart/index')}"
+                        }
+                    });
+                    
+                }
+            });
+	    }
+	</script>
+	<script>
+    
+     function countdown(){
+        $('.time-box').each(function(i){
+            var num = parseInt($(this).find('.countdown').html());
+            if(num > 0){
+                num = num -1;
+                hour = Math.floor(num / 3600);
+             
+                minutes = Math.floor(num % 3600 / 60);
+                seconds = Math.floor(num % 60);
+                $(this).find('.countdown').html(num);
+                
+                $(this).find(".countDiv").html("<span class='position'>" + updateDuo(hour) + "<span class='bdfh'>:</span>" + updateDuo(minutes) + "<span class='bdfh'>:</span>" + updateDuo(seconds) + "</span>");
+            }else{
+                $(this).find('.countDiv').html("<span class='time_over'>{:lang('已结束')}</span>");
+            }
+        })
+    }
+        
+    function updateDuo(value){
+        return '<span>'+Math.floor(value/10)%10+'</span><span>'+value%10+'</span>';
+    }
+    var int=setInterval("countdown()", 1000);
+    
+    $(".ssjg-tit select").change(function(){
+        var lid = $(this).val();
+        window.location.href = "/index.php?s=/list/index/id/" + lid;
+    });
+    
+    function changeLang(lang){
+        $.cookie('hx_users_think_language',lang, { path: '/' });
+        console.log($.cookie('hx_users_think_language'));
+        location.reload();
+    }
+    </script>
+</body>
+</html>

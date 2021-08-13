@@ -1,0 +1,56 @@
+    <div class="quanbu-top">
+    	<a href="{url('index/index')}" class="qb-tleft f-l"><img src="{$web_tplpath}images/logo.png"></a>
+    	<span class="top_search"><input type="text" class="input_search" style="width:35%;background:url('{$web_tplpath}images/search.png') no-repeat #fff;background-size:auto 100%; background-position:95%;"></span>
+        <div class="qb-tright f-r">
+        	<a href="javascript:;" id="top_menu_btn"><img src="{$web_tplpath}images/more.png"></a>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+    <script> 
+        $('.input_search').click(function(){
+            window.location.href = "{url('index/search')}";
+        })
+        $('#top_menu_btn').click(function(){
+           $('.top_menu').toggle('fast',function(){
+               
+           });
+           
+        })
+    </script>
+    <!--全部商品-->
+    <!--手机平板-->
+    <!--电脑办公-->
+    <!--数码影音-->
+    <!--女性时尚-->
+    <!--美食天地-->
+    <!--潮流新品-->
+    <!--家居商品-->
+    <!--其他商品-->
+    <ul class="top_menu">
+        <li class="current"><a href="{url('index/index')}">{:lang('首页')}</a></li>
+        <li><a href="{url('list/index/')}">{:lang('全部商品')}</a></li>
+        {volist name="list_type" id="vo"}
+        <li><a href="{url('list/index/?id='.$vo['id'])}">{:lang($vo)}</a></li>
+        {/volist}
+        <li>
+        <div class="row" style="padding:5px;">
+            <span class="col-xs-4" >
+                <a href="javascript:;" onclick="changeLang('zh-cn')" style="border-bottom:none;">
+                    <img class="center-block" src="{$web_tplpath}images/zh.png" style="height:25px;">
+                </a>
+            </span>
+            <span class="col-xs-4">
+                <a href="javascript:;" onclick="changeLang('en-us')" style="border-bottom:none;">
+                    <img class="center-block" src="{$web_tplpath}images/usa.png" style="height:25px;">
+                </a>
+            </span>
+            <span class="col-xs-4">
+                <a href="javascript:;" onclick="changeLang('th-th')" style="border-bottom:none;">
+                    <img class="center-block" src="{$web_tplpath}images/tai.png" style="height:25px;">
+                </a>
+            </span>
+        </div>
+        </li>
+        <li>&nbsp;</li>
+        <div style="clear:both;"></div>
+    </ul>
